@@ -1,0 +1,6 @@
+{
+  "name": "TREK Athi River",
+  "description": "TREK Bicycle Stores Athi River - Adult & Kids bikes, direct WhatsApp price negotiation, specs catalog, and store directions opposite Mavuno Fertilizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
